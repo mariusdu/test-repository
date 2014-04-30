@@ -12,7 +12,6 @@ namespace TestApp
         {
             Console.WriteLine("A");
             Console.ReadLine();
-            Console.WriteLine("AAA");
         }
     }
 }
